@@ -1,3 +1,24 @@
 .javaScript{
     color:rgb(255, 196, 0)
 }
+.part1 {
+color: Blue;
+text-align: center;
+padding: 300px;
+}
+.part2 {
+color: yellow;
+text-align: left;
+padding: -300px;
+}
+.blue{
+color: blue;
+}
+.red {
+    color: red;
+}
+.green{
+    color: green;
+}
+    
+
